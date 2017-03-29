@@ -8,6 +8,12 @@ end
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '~> 5.0.2'
+# friendly_id
+gem 'friendly_id', '~> 5.1.0'
+# bulma-rails
+gem "bulma-rails", "~> 0.4.0"
+# OmniAuth
+gem "omniauth-google-oauth2"
 # Gem Devise
 gem 'devise'
 # Use postgresql as the database for Active Record
