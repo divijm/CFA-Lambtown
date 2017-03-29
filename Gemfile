@@ -14,6 +14,8 @@ gem 'simple_form'
 gem 'friendly_id', '~> 5.1.0'
 # bulma-rails
 gem "bulma-rails", "~> 0.4.0"
+# Facebook OmniAuth
+gem 'omniauth-facebook'
 # OmniAuth
 gem "omniauth-google-oauth2"
 # Gem Devise
