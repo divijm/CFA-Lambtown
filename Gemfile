@@ -9,6 +9,11 @@ end
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '~> 5.0.2'
 # Simple Form
+# Gem Rolify
+gem "rolify"
+# Gem Pundit
+gem "pundit"
+# Gem Simple Form 
 gem 'simple_form'
 # friendly_id
 gem 'friendly_id', '~> 5.1.0'
